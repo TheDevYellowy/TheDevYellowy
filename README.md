@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheDevYellowy
 - 👀 I’m interested in Developing discord selfbots and bots
 - 🌱 I’m currently learning JS, Python, and hopefully C#
-- 💞️ I’m looking to collaborate on N/A
+- 💞️ I’m looking to collaborate on reverse engineering discord
 - 📫 How to reach me Yellowy#0001
 
 <!---
