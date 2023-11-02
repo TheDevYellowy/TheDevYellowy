@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @TheDevYellowy
-- 👀 I’m interested in Developing discord selfbots and bots
-- 🌱 I’m currently learning JS, Python, and hopefully C#
-- 💞️ I’m looking to collaborate on reverse engineering discord
-- 📫 How to reach me **yellowyttv** on discord
+# Stats
+![Yellowy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedevyellowy&theme=radical&show_icons=true)
 
 <!---
 TheDevYellowy/TheDevYellowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
